@@ -42,7 +42,7 @@
                 <meta property="og:title" content="Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME" />
                 <meta property="og:description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc." />
                 <meta property="og:image" content="../cms.janhome.vn/uploads/thumb/2020/06/05/san-go-cong-nghiep.jpg" />
-                <title>123Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME</title><meta name="description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc."><meta name="keywords" content="sàn gỗ, san go, san go ngoai troi, nhà phân phối sàn gỗ">
+                <title>Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME</title><meta name="description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc."><meta name="keywords" content="sàn gỗ, san go, san go ngoai troi, nhà phân phối sàn gỗ">
 
             </head>
             <body>

@@ -35,7 +35,7 @@
             <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i&amp;display=swap&amp;subset=vietnamese"
                 rel="stylesheet">
                 <link href="css/allmin6531.css?v=G6Iw6849yRHkXXaCwks-vCrCPIohiF6r-SDUwKtNLN8" rel="stylesheet" />
-                
+                <link href="css/style.css" rel="stylesheet" />
                 <meta property="fb:app_id" content="125831801610404" />
                 <meta property="og:url" content="index.html" />
                 <meta property="og:type" content="article" />

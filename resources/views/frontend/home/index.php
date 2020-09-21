@@ -42,8 +42,8 @@
                 <meta property="og:title" content="Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME" />
                 <meta property="og:description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc." />
                 <meta property="og:image" content="../cms.janhome.vn/uploads/thumb/2020/06/05/san-go-cong-nghiep.jpg" />
-                <title>Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME</title><meta name="description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc."><meta name="keywords" content="sàn gỗ, san go, san go ngoai troi, nhà phân phối sàn gỗ">
-                
+                <title>123Hệ thống bán lẻ sàn gỗ, sàn nhựa, vật liệu hoàn thiện tại kho JANHOME</title><meta name="description" content="JANHOME là hệ thống bán lẻ sàn gỗ, sàn nhựa, giấy dán tường, vật liệu nội ngoại thất hoàn thiện có uy tín hơn 15 năm tại Việt Nam có hệ thống toàn quốc."><meta name="keywords" content="sàn gỗ, san go, san go ngoai troi, nhà phân phối sàn gỗ">
+
             </head>
             <body>
                 <section class="header">
@@ -361,7 +361,7 @@
                                                     id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
                                                     aria-expanded="false">
                                                     <img src="images/vietname209.svg?v=1.0.0" class="img-fluid " />
-                                                    
+
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-right"
                                                     aria-labelledby="dropdownMenuLink">
@@ -406,7 +406,7 @@
                                                     </a>
                                                 </div>
                                                 <div>
-                                                    
+
                                                     <a rel="nofollow" href="javascript:void(0)" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn-sm btn-link">
                                                         <img src="images/spvx-ic3.svg" class="img-fluid icon mr-2" />Tải
                                                         Catalogue
@@ -749,7 +749,7 @@
                     <img src="images/times-icon.svg" />
                     </button>
                 </section>
-                
+
                 <div class="pt-1   ">
                     <div class="container">
                         <div class="row">
@@ -764,7 +764,7 @@
                                                 <div class="image image-fixed">
                                                     <a href="san-go-woodman.html">
                                                         <img src="../cms.janhome.vn/uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-san-go-woodmane209.jpg?v=1.0.0" class="d-block w-100" alt="janhome.vn">
-                                                        
+
                                                     </a>
                                                 </div>
                                             </div>
@@ -772,7 +772,7 @@
                                                 <div class="image image-fixed">
                                                     <a href="tam-op-nano.html">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-tam-op-nano-timberman.jpg?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
-                                                        
+
                                                     </a>
                                                 </div>
                                             </div>
@@ -780,7 +780,7 @@
                                                 <div class="image image-fixed">
                                                     <a href="op-tran-bang-tam-pvc-timberman.html">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-go-nhua-timberman-tbm01p.jpg?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
-                                                        
+
                                                     </a>
                                                 </div>
                                             </div>
@@ -788,7 +788,7 @@
                                                 <div class="image image-fixed">
                                                     <a href="san-go-wineo.html">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/07/28/he-thong-ban-le-hoan-thien-tai-kho-janhome-khuyen-mai-san-go-duc.png?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
-                                                        
+
                                                     </a>
                                                 </div>
                                             </div>
